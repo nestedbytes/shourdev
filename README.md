@@ -1,3 +1,4 @@
+![ pfp](https://shourgamer2.tk/assets/images/img-home.jpg "pfp") <br>
 ### Hi there 👋
 My name is Shourjjo Majumder <br>
 I live in Kolkata,West Bengal,India <br>
