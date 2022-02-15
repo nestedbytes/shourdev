@@ -9,6 +9,14 @@ I am the owner and founder of <a href="https://github.com/ShourGames">ShourGames
 I like working and making open source projects i have made <a href="https://github.com/shourgamer2/simplyer">Simplyer</a> <br>
 I love to play roblox i make a lot of roblox games <br>
 I love to code python,c#,lua,html and java script
+### I know
+<div style="display: flex;">
+ 
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Lua"c="https://www.vectorlogo.zone/logos/lua/lua-ar21.png"/>
+
+</div>
 ### My socials 
 <a href="https://shourgamer2.tk/">Website</a> <br>
 <a href="https://discord.gg/4Ekyvrkyxn" title="" class="link-like-text">Discord Server</a> <br>
