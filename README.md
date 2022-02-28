@@ -30,7 +30,9 @@ I love to code python,c#,lua,html and java script
 ![recentplayed](https://spotify-recently-played-readme.vercel.app/api?user=5sw09fxmye16ruwu5ovjfpy85)
 
 ### Stats
-[![shour's GitHub stats](https://github-readme-stats.vercel.app/api?username=shourgamer2)](https://github.com/shourgamer2/shourgamer2)
+[![shour's GitHub stats](https://github-readme-stats.vercel.app/api?username=shourgamer2)](https://github.com/shourgamer2/shourgamer2) <br>
+![](https://komarev.com/ghpvc/?username=shourgamer2) <br>
+[![GitHub followers](https://img.shields.io/github/followers/shourgamer2.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/shourgamer2?tab=followers)
 
 ### Contact 📞
 <a href = "mailto: contact@shourgamer2.tk">Email</a> <br>
