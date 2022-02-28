@@ -37,4 +37,4 @@ I love to code python,c#,lua,html and java script
 ### Contact 📞
 <a href = "mailto: contact@shourgamer2.tk">Email</a> <br>
 <a href="https://discord.gg/4Ekyvrkyxn" title="" class="link-like-text">Discord Server</a> <br>
-
+[![Shourgamer2 Discord online members](https://badgen.net/discord/online-members/4Ekyvrkyxn)](https://discord.gg/4Ekyvrkyxn)
