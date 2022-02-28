@@ -26,6 +26,11 @@ I love to code python,c#,lua,html and java script
 <a href="https://twitter.com/shourgamer2">Twitter</a> <br>
 <a href="https://www.youtube.com/channel/UCPMpIlMTa3hC0NjYQUKXAeA" title="" class="link-like-text">Youtube</a>
 
+### Spotify Recently Played
+![recentplayed](https://spotify-recently-played-readme.vercel.app/api?user=5sw09fxmye16ruwu5ovjfpy85)
+
+### Stats
+[![shour's GitHub stats](https://github-readme-stats.vercel.app/api?username=shourgamer2)](https://github.com/shourgamer2/shourgamer2)
 
 ### Contact 📞
 <a href = "mailto: contact@shourgamer2.tk">Email</a> <br>
