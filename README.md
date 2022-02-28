@@ -2,7 +2,7 @@
 ### Hi there 👋
 My name is Shourjjo Majumder <br>
 I live in Kolkata,West Bengal,India <br>
-I am stll a student <br>
+I am still a student <br>
 ### What i do and make 💻
 I am a game and software developer <br>
 I am the owner and founder of <a href="https://github.com/ShourGames">ShourGames</a> ShourGames have also made some projects like <a href="https://github.com/HammerDiscordBot">Hammer</a> <br>
