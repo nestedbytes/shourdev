@@ -1,5 +1,5 @@
 ![ pfp](https://shourgamer2.tk/assets/images/img-home.jpg "pfp") <br>
-### Hi there 👋
+### Hi there  <img src="https://github.com/shourgamer2/shourgamer2/blob/main/wave.gif?raw=true" width="30px">
 My name is Shourjjo Majumder <br>
 I live in Kolkata,West Bengal,India <br>
 I am still a student <br>
@@ -35,3 +35,4 @@ I love to code python,c#,lua,html and java script
 ### Contact 📞
 <a href = "mailto: contact@shourgamer2.tk">Email</a> <br>
 <a href="https://discord.gg/4Ekyvrkyxn" title="" class="link-like-text">Discord Server</a> <br>
+
