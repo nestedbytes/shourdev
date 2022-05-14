@@ -7,7 +7,7 @@ I am a self tought programmer,ethical hacker and game developer.
 ### What i do and make 💻
 I am a game and software developer <br>
 I am the owner and founder of <a href="https://github.com/ShourGames">ShourGames</a> ShourGames have also made some projects like <a href="https://github.com/HammerDiscordBot">Hammer</a> <br>
-I like working and making open source projects i have made <a href="https://github.com/shourgamer2/simplyer">Simplyer</a>, [Keylogger](https://github.com/shourgamer2/keylogger), [Textedit](https://github.com/shourgamer2/textedit), [youtubedownloader](https://github.com/shourgamer2/youtubedownloader), [PassMan](https://github.com/shourgamer2/PassMan), [Chatly](https://github.com/shourgamer2/chatly-app) and [ping-bot](https://github.com/shourgamer2/ping-bot)<br>
+I like working and making open source projects i have made <a href="https://github.com/shourgamer2/simplyer">Simplyer</a>, [Keylogger](https://github.com/shourgamer2/keylogger), [Textedit](https://github.com/shourgamer2/textedit), [youtubedownloader](https://github.com/shourgamer2/youtubedownloader), [PassMan](https://github.com/shourgamer2/PassMan), [Chatly](https://github.com/shourgamer2/chatly-app) [ping-bot](https://github.com/shourgamer2/ping-bot) and [Armstrongnumberfinder](https://github.com/shourgamer2/Armstrongnumberfinder)<br>
 I love to play roblox i make a lot of roblox games <br>
 I love to code python,c#,lua,html and java script
 ### I know 📖
@@ -30,8 +30,7 @@ I love to code python,c#,lua,html and java script
 <a href="https://twitter.com/shourgamer2">Twitter</a> <br>
 <a href="https://www.youtube.com/channel/UCPMpIlMTa3hC0NjYQUKXAeA" title="" class="link-like-text">Youtube</a>
 
-### Spotify Recently Played
-![recentplayed](https://spotify-recently-played-readme.vercel.app/api?user=5sw09fxmye16ruwu5ovjfpy85)
+
 
 ### Stats
 [![shour's GitHub stats](https://github-readme-stats.vercel.app/api?username=shourgamer2)](https://github.com/shourgamer2/shourgamer2) <br>
