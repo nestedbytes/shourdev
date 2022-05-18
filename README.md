@@ -7,7 +7,7 @@ I am a self tought programmer,ethical hacker and game developer.
 ### What i do and make 💻
 I am a game and software developer <br>
 I am the owner and founder of <a href="https://github.com/ShourGames">ShourGames</a> ShourGames have also made some projects like <a href="https://github.com/HammerDiscordBot">Hammer</a> <br>
-I like working and making open source projects i have made <a href="https://github.com/shourgamer2/simplyer">Simplyer</a>, [Keylogger](https://github.com/shourgamer2/keylogger), [Textedit](https://github.com/shourgamer2/textedit), [youtubedownloader](https://github.com/shourgamer2/youtubedownloader), [PassMan](https://github.com/shourgamer2/PassMan), [Chatly](https://github.com/shourgamer2/chatly-app) [ping-bot](https://github.com/shourgamer2/ping-bot), [Armstrongnumberfinder](https://github.com/shourgamer2/Armstrongnumberfinder) amd [qget-ip](https://github.com/shourgamer2/qget-ip)<br>
+I like working and making open source projects i have made <a href="https://github.com/shourgamer2/simplyer">Simplyer</a>, [Keylogger](https://github.com/shourgamer2/keylogger), [Textedit](https://github.com/shourgamer2/textedit), [youtubedownloader](https://github.com/shourgamer2/youtubedownloader), [PassMan](https://github.com/shourgamer2/PassMan), [Chatly](https://github.com/shourgamer2/chatly-app) , [Armstrongnumberfinder](https://github.com/shourgamer2/Armstrongnumberfinder) amd [Appl-language](https://github.com/shourgamer2/appl-language)<br>
 I love to play roblox i make a lot of roblox games <br>
 I love to code python,c#,lua,html and java script
 ### I know 📖
@@ -33,8 +33,8 @@ I love to code python,c#,lua,html and java script
 
 
 ### Stats
-[![shour's GitHub stats](https://github-readme-stats.vercel.app/api?username=shourgamer2)](https://github.com/shourgamer2/shourgamer2) <br>
-![](https://komarev.com/ghpvc/?username=shourgamer2) <br>
+ <br>
+
 
 [![GitHub followers](https://img.shields.io/github/followers/shourgamer2.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/shourgamer2?tab=followers)
 
