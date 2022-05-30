@@ -1,4 +1,4 @@
-![ pfp](https://shourgamer2.tk/assets/images/img-home.jpg "pfp") <br>
+![ pfp](https://avatars.githubusercontent.com/u/90188229?s=40&v=4 "pfp") <br>
 ### Hi there  <img src="https://github.com/shourgamer2/shourgamer2/blob/main/wave.gif?raw=true" width="30px">
 My name is Shourjjo Majumder <br>
 I live in Kolkata,West Bengal,India <br>
