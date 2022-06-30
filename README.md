@@ -35,10 +35,8 @@ I love to code python,c#,lua,htmljavascript,c and node.js
 
 
 ### Stats
- <br>
+![shour's GitHub stats](https://github-readme-stats.vercel.app/api?username=shourgamer2&show_icons=true&theme=radical)
 
-
-[![GitHub followers](https://img.shields.io/github/followers/shourgamer2.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/shourgamer2?tab=followers)
 
 ### Contact 📞
 <a href = "mailto: contact@shourgamer2.tk">Email</a> <br>
