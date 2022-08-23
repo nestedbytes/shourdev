@@ -42,7 +42,7 @@ I love to code python,c#,lua,htmljavascript,c,c++ and node.js
 <a href="https://shourgamer2.tk/">Website</a> <br>
 <a href="https://discord.gg/4Ekyvrkyxn" title="" class="link-like-text">Discord Server</a> <br>
 <a href="https://twitter.com/shourgamer2">Twitter</a> <br>
-<a href="https://www.youtube.com/channel/UCPMpIlMTa3hC0NjYQUKXAeA" title="" class="link-like-text">Youtube</a>
+<a href="https://www.youtube.com/channel/UCjsa6kAw9bMFlxXO8zrlefA" title="" class="link-like-text">Youtube</a>
 
 ### Sponsor
 If you want to support me then please sponsor me ! here is the url: https://www.shourgamer2.tk/#Sponsor
