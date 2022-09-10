@@ -47,8 +47,6 @@ I love to code python,c#,lua,htmljavascript,c,c++ and node.js
 ### Sponsor
 If you want to support me then please sponsor me ! here is the url: https://www.shourgamer2.tk/#Sponsor
 
-### Stats
-![shour's GitHub stats](https://github-readme-stats.vercel.app/api?username=shourgamer2&show_icons=true&theme=radical)
 
 
 ### Contact 📞
