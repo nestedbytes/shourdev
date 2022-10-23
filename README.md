@@ -8,6 +8,7 @@ I am a self tought programmer,ethical hacker and game developer.
 I am a game, software and full stack web  developer <br>
 I am the owner and founder of <a href="https://github.com/ShourGames">ShourGames</a> ShourGames have also made some projects like <a href="https://github.com/HammerDiscordBot">Hammer</a> <br>
 I love to play roblox i make a lot of roblox games <br>
+I love collecting watches
 
 ### I know 📖
 <div style="display: flex;">
