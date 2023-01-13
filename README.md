@@ -2,7 +2,7 @@
 ### Hi there  <img src="https://github.com/shourgamer2/shourgamer2/blob/main/wave.gif?raw=true" width="30px">
 My name is Shourjjo Majumder <br>
 I live in Kolkata,West Bengal,India <br>
-I am still a student <br>
+I am a student <br>
 I am a self tought programmer,ethical hacker and game developer.
 ### What I do and make 💻
 I am a game, software and full stack web  developer <br>
