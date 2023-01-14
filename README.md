@@ -51,7 +51,7 @@ If you want to support me then please sponsor me ! here is the url: https://www.
 
 ### Contact 📞
 <a href = "mailto: contact@shourgamer2.tk">Email</a> <br>
-<a href="https://discord.gg/4Ekyvrkyxn" title="" class="link-like-text">Discord Server</a> <br>
+<a href="https://discord.gg/4Ekyvrkyxn" title="" class="link-like-text">Discord</a> <br>
 <a href = "https://www.shourgamer2.tk/#Contact">Website</a> 
 
 
