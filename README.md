@@ -39,7 +39,7 @@ I love collecting watches
 </div>
 
 ### My socials  📱 
-<a href="https://shourgamer2.tk/">Website</a> <br>
+<a href="https://www.shourgamer2.tk/">Website</a> <br>
 <a href="https://discord.gg/4Ekyvrkyxn" title="" class="link-like-text">Discord Server</a> <br>
 <a href="https://twitter.com/shourgamer2">Twitter</a> <br>
 <a href="https://www.youtube.com/@shour" title="" class="link-like-text">Youtube</a>
