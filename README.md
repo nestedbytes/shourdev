@@ -9,7 +9,7 @@ I am a game, software and full stack web  developer <br>
 I am the owner and founder of <a href="https://github.com/ShourGames">ShourGames</a> ShourGames have also made some  projects like the <a href="https://github.com/HammerDiscordBot">Hammer</a> <br>
 I love collecting watches
 
-### I know 📖
+### Skills 📖
 <div style="display: flex;">
  
 <h1> Languages </h1>
