@@ -1,5 +1,5 @@
 ### Hello
-Hello, I am a indie game and software developer.
+Hello, I am an indie game and software developer.
 ### Some Projects I made
 [Def os - A simple os](https://github.com/shourdev/def-os) <br>
 [What-Lang - A programing language](https://github.com/shourdev/what-language) <br>
