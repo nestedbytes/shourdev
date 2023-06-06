@@ -1,7 +1,7 @@
 ### Hello
 Hello, I am an indie game and software developer.
 ### About Me
-I am a school student living in India who loves computers I make games and software I use Python and C for most of my stuff but I use c# and lua for game development and some projects.
+I am a school student living in India who loves computers I make games and software I use Python and C for most of my stuff but I use c# for mainly game development but sometimes also for general software.
 ### Some Projects I made
 [Def os - A simple os](https://github.com/shourdev/def-os) <br>
 [What-Lang - A toy programing language](https://github.com/shourdev/what-language) <br>
